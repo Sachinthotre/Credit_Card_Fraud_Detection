@@ -9,7 +9,7 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 In this Data Analysis project section, I explored Kaggle datasets related to credit card spending habits in India and demonstrated how to utilize these datasets in Power BI. You can download the working file available, and the Kaggle dataset link is in the description. After importing the CSV file into Power BI, I performed data profiling, cleaned the data, and split columns where necessary. I created a date table with calculated columns for year, month number, and month name to facilitate time intelligence functions. Various visualizations were created, including slicers for year/month, gender, card type, and expense type, as well as charts and graphs like 100% stacked bar charts, donut charts, treemaps, line charts, and box plots. Additionally, I used field and numerical range parameters to create dynamic reports, including a top-N cities report with a custom measure for ranking. The project showcases comprehensive data visualization and analysis techniques in Power BI, providing insights into credit card spending patterns.
 
-![Screenshot 2024-07-08 191044](https://github.com/Sachinthotre/Credit-card-Fraud-detection/assets/46932228/0efcdc16-cd64-43a4-b044-fc248b1eafd6)
+![Screenshot 2024-07-08 191044](https://github.com/Sachinthotre/Credit_Card_Fraud_Detection/assets/46932228/8187c52c-3d83-4803-a4b4-76b1c0d13f8b)
 
 
 #  **Machine learning section**
